@@ -33,4 +33,4 @@ o    Average price for most popular Cuisines.
 
 3. Imported the aggregated data into Excel for further Analysis and Visualisation.
 
-<p align="center"><img src="https://github.com/BrajeshVKulkarni/swiggy_Analysis_project/blob/main/dashboard.png" width="1000" ></p>
+
